@@ -1,13 +1,16 @@
-<div align="center" width="100%"><img src="https://i.imgur.com/f1mYEXT.gif" width="60%"></div>
 <div align="center" width="100%">
 
 <p align="center" style="font-size:1.5em;"><b>Hi there 👋</b></p>
 
-<img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" width="40%"/><br>
+<img src="https://i.imgur.com/a0bLy40.gif" width="40%"/><br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lkbbzaru88byce1epz0lqkf2b&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=lkbbzaru88byce1epz0lqkf2b&redirect=true)
 
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/lkbbzaru88byce1epz0lqkf2b?si=ad271d2d46d64e04) <be>
 
+<div align="center" width="100%">
+<img src="https://melancthontownship.ca/wp-content/uploads/2017/02/footer-bg.png" width="100%">
+</div>
 
-![TOTAL HITS](https://komarev.com/ghpvc/?username=Idanbot&color=049660&style=for-the-badge&base=1337&abbreviated=true)
+![TOTAL HITS](https://komarev.com/ghpvc/?username=Idanbot&color=333333&style=for-the-badge&abbreviated=true)
 </div>
