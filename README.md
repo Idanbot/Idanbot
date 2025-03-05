@@ -1,6 +1,6 @@
 <div align="center" width="100%">
 
-<p align="center" style="font-size:2em;"><b>Hi there 👋</b></p>
+<h3 align="center">Hi there 👋</h3>
 
 <img src="https://i.imgur.com/a0bLy40.gif" width="40%"/><br>
 
