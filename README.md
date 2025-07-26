@@ -16,7 +16,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Idanbot&repo=Idanbot&theme=radical" alt="Pinned Repo"/>
 </p>
-![TOTAL HITS](https://komarev.com/ghpvc/?username=Idanbot&color=555555&style=for-the-badge&abbreviated=true)
+<div>
+[![TOTAL HITS]](https://komarev.com/ghpvc/?username=Idanbot&color=555555&style=for-the-badge&abbreviated=true)
 </div>
 
 
