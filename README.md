@@ -7,7 +7,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lkbbzaru88byce1epz0lqkf2b&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=555555&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lkbbzaru88byce1epz0lqkf2b&redirect=true)
 
 <div align="center" width="100%">
-<img src="https://melancthontownship.ca/wp-content/uploads/2017/02/footer-bg.png" width="100%">
+<img src="https://melancthontownship.ca/wp-content/uploads/2017/02/footer-bg.png" alt="footer background" width="100%">
 </div>
 
 <p align="center">
@@ -18,3 +18,5 @@
 </p>
 ![TOTAL HITS](https://komarev.com/ghpvc/?username=Idanbot&color=555555&style=for-the-badge&abbreviated=true)
 </div>
+
+
