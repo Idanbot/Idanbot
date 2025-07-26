@@ -10,5 +10,11 @@
 <img src="https://melancthontownship.ca/wp-content/uploads/2017/02/footer-bg.png" width="100%">
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Idanbot&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Idanbot&repo=Idanbot&theme=radical" alt="Pinned Repo"/>
+</p>
 ![TOTAL HITS](https://komarev.com/ghpvc/?username=Idanbot&color=555555&style=for-the-badge&abbreviated=true)
 </div>
