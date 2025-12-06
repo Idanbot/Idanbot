@@ -43,15 +43,8 @@
   <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=flat-square" alt="Linux"/>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Idanbot&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
 <div align="center" width="100%">
   <a href="https://github.com/Idanbot"><img src="https://img.shields.io/github/followers/Idanbot?label=Follow&style=social" alt="Follow on GitHub"/></a>
-  <img src="https://img.shields.io/badge/Profile-Active-brightgreen?style=flat-square" alt="Profile status"/>
-  <img src="https://img.shields.io/badge/Top%20Langs-See%20Stats-blue?style=flat-square" alt="Top languages"/>
 </div>
 
 <div align="center" width="100%">
@@ -62,4 +55,7 @@
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Idanbot&color=brightgreen" alt="Profile views"/>
+</p>
 
