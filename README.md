@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/coder.gif" width="480" alt="Animated developer workspace"/>
+<img src="./assets/coder.gif" width="420" alt="Animated developer workspace"/>
 
 <h1>Idan Botbol</h1>
 <h3>DevOps & Software Engineer</h3>
 
-<p>Cloud infrastructure &middot; delivery automation &middot; backend systems</p>
+<p>Building reliable cloud infrastructure, delivery automation, and backend systems.</p>
 
 <p>
   <a href="https://github.com/Idanbot?tab=followers"><img src="https://img.shields.io/github/followers/Idanbot?label=Follow&style=flat-square&logo=github" alt="GitHub followers"/></a>
@@ -14,13 +14,14 @@
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Focus
+
+- **Platform engineering:** infrastructure as code, container platforms, and continuous delivery.
+- **Backend systems:** APIs, data stores, and asynchronous services.
+
+## Core stack
 
 ### Platform & delivery
-
-Infrastructure as code, container platforms, and automated delivery workflows.
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS"/>
@@ -31,12 +32,7 @@ Infrastructure as code, container platforms, and automated delivery workflows.
   <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" alt="Ansible"/>
 </p>
 
-</td>
-<td width="50%" valign="top">
-
-### Backend & data
-
-APIs and distributed services backed by practical data and messaging systems.
+### Backend & services
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
@@ -46,13 +42,12 @@ APIs and distributed services backed by practical data and messaging systems.
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot"/>
 </p>
 
-</td>
-</tr>
-</table>
+<details>
+<summary><strong>Data, messaging &amp; operations</strong></summary>
 
-<h2 align="center">Systems toolbox</h2>
+<br>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" alt="Redis"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB"/>
@@ -61,21 +56,13 @@ APIs and distributed services backed by practical data and messaging systems.
   <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111827&style=flat-square" alt="Linux"/>
 </p>
 
-<h2 align="center">GitHub snapshot</h2>
+</details>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Idanbot&theme=github" alt="GitHub contribution summary"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Idanbot&theme=github" alt="GitHub stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Idanbot&theme=github" alt="Repositories by language"/>
-</p>
-
-<h2 align="center">Now playing</h2>
+## Now playing
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lkbbzaru88byce1epz0lqkf2b&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lkbbzaru88byce1epz0lqkf2b&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0e75b6&bar_color_cover=false" alt="Spotify profile"/></a>
