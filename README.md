@@ -14,17 +14,13 @@
 
 </div>
 
-## Focus
-
-- **Platform engineering:** infrastructure as code, container platforms, and continuous delivery.
-- **Backend systems:** APIs, data stores, and asynchronous services.
-
 ## Core stack
 
 ### Platform & delivery
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=flat-square" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes"/>
