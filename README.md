@@ -1,16 +1,11 @@
 <div align="center">
 
-<img src="./assets/coder.gif" width="420" alt="Animated developer workspace"/>
+<img src="./assets/profile-banner.png" width="760" alt="Cloud infrastructure and delivery pipeline illustration"/>
 
 <h1>Idan Botbol</h1>
 <h3>DevOps & Software Engineer</h3>
 
 <p>Building reliable cloud infrastructure, delivery automation, and backend systems.</p>
-
-<p>
-  <a href="https://github.com/Idanbot?tab=followers"><img src="https://img.shields.io/github/followers/Idanbot?label=Follow&style=flat-square&logo=github" alt="GitHub followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Idanbot&style=flat-square&color=0e75b6" alt="Profile views"/>
-</p>
 
 </div>
 
@@ -24,8 +19,6 @@
   <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=flat-square" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white&style=flat-square" alt="Argo CD"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" alt="Ansible"/>
 </p>
 
 ### Backend & services
@@ -39,9 +32,22 @@
 </p>
 
 <details>
-<summary><strong>Data, messaging &amp; operations</strong></summary>
+<summary><strong>More tools &amp; technologies</strong></summary>
 
 <br>
+
+<strong>Delivery &amp; operations</strong>
+
+<p>
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white&style=flat-square" alt="Argo CD"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111827&style=flat-square" alt="Linux"/>
+</p>
+
+<strong>Data &amp; messaging</strong>
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"/>
@@ -50,18 +56,24 @@
   <img src="https://img.shields.io/badge/ScyllaDB-6CD5E7?logo=scylladb&logoColor=111827&style=flat-square" alt="ScyllaDB"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111827&style=flat-square" alt="Linux"/>
 </p>
 
 </details>
 
-## Now playing
+## On rotation
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lkbbzaru88byce1epz0lqkf2b&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lkbbzaru88byce1epz0lqkf2b&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0e75b6&bar_color_cover=false" alt="Spotify profile"/></a>
+  <img src="./assets/daily-rotation-dark.svg#gh-dark-mode-only" width="720" alt="Today's music rotation"/>
+  <img src="./assets/daily-rotation-light.svg#gh-light-mode-only" width="720" alt="Today's music rotation"/>
 </p>
 
-<img src="https://melancthontownship.ca/wp-content/uploads/2017/02/footer-bg.png" alt="" width="100%">
+<div align="center">
+
+<img src="./assets/profile-footer.png" width="760" alt="Connected cloud infrastructure"/>
+
+<p>
+  <a href="https://github.com/Idanbot?tab=followers"><img src="https://img.shields.io/github/followers/Idanbot?label=Follow&style=flat-square&logo=github" alt="GitHub followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Idanbot&style=flat-square&color=0e75b6" alt="Profile views"/>
+</p>
+
+</div>

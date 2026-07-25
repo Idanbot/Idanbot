@@ -1,0 +1,52 @@
+[
+  {
+    "artist": "Disturbed",
+    "track": "Hold on to Memories",
+    "accent": "#22d3ee"
+  },
+  {
+    "artist": "Portugal. The Man",
+    "track": "Feel It Still",
+    "accent": "#f59e0b"
+  },
+  {
+    "artist": "Modest Mouse",
+    "track": "Dramamine",
+    "accent": "#38bdf8"
+  },
+  {
+    "artist": "Bo Burnham",
+    "track": "Welcome to the Internet",
+    "accent": "#a78bfa"
+  },
+  {
+    "artist": "Yosi Horikawa",
+    "track": "Letter",
+    "accent": "#2dd4bf"
+  },
+  {
+    "artist": "Dennis Lloyd",
+    "track": "Never Go Back",
+    "accent": "#fb7185"
+  },
+  {
+    "artist": "AC/DC",
+    "track": "Thunderstruck",
+    "accent": "#f97316"
+  },
+  {
+    "artist": "System Of A Down",
+    "track": "Toxicity",
+    "accent": "#ef4444"
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "track": "Do I Wanna Know?",
+    "accent": "#60a5fa"
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "track": "Fluorescent Adolescent",
+    "accent": "#34d399"
+  }
+]

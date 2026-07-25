@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="164" viewBox="0 0 720 164" role="img" aria-labelledby="title desc">
+  <title id="title">Fluorescent Adolescent by Arctic Monkeys</title>
+  <desc id="desc">Today&apos;s selection from Idan&apos;s daily music rotation.</desc>
+  <rect x="1" y="1" width="718" height="162" rx="7" fill="none" stroke="#d0d7de"/>
+  <g transform="translate(34 36)">
+    <circle cx="45" cy="45" r="44" fill="none" stroke="#d0d7de" stroke-width="2"/>
+    <circle cx="45" cy="45" r="31" fill="none" stroke="#34d399" stroke-width="7"/>
+    <circle cx="45" cy="45" r="7" fill="#34d399"/>
+    <path d="M45 14a31 31 0 0 1 27 16" fill="none" stroke="#1f2328" stroke-linecap="round" stroke-width="2" opacity=".75"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="146" y="45" fill="#34d399" font-size="12" font-weight="700" letter-spacing="1.4">ON ROTATION</text>
+    <text x="146" y="82" fill="#1f2328" font-size="24" font-weight="650">Fluorescent Adolescent</text>
+    <text x="146" y="111" fill="#59636e" font-size="16">Arctic Monkeys</text>
+    <text x="146" y="137" fill="#59636e" font-size="12">A daily pick from Idan&apos;s rotation</text>
+  </g>
+  <g transform="translate(621 53)" fill="#34d399">
+    <rect x="0" y="25" width="7" height="32" rx="3.5" opacity=".45"/>
+    <rect x="14" y="9" width="7" height="48" rx="3.5" opacity=".65"/>
+    <rect x="28" y="18" width="7" height="39" rx="3.5" opacity=".85"/>
+    <rect x="42" y="0" width="7" height="57" rx="3.5"/>
+  </g>
+</svg>
