@@ -35,16 +35,16 @@ jobs:
 
       - name: Publish generated cards
         run: |
-          mkdir -p generated-assets/generated/design-1
-          cp "$RUNNER_TEMP"/rotation/*.svg generated-assets/generated/design-1/
+          mkdir -p generated-assets/generated/designs
+          cp "$RUNNER_TEMP"/rotation/*.svg generated-assets/generated/designs/
           cd generated-assets
 
-          if git diff --quiet -- generated/design-1; then
+          if git diff --quiet -- generated/designs; then
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add generated/design-1
-          git commit -m "rotation: update design-1"
+          git add generated/designs
+          git commit -m "rotation: update generated cards"
           git push origin HEAD:generated-assets

@@ -72,8 +72,8 @@
 ## On rotation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Idanbot/Idanbot/generated-assets/generated/design-1/daily-rotation-dark.svg#gh-dark-mode-only" width="720" alt="Idan's daily music rotation"/>
-  <img src="https://raw.githubusercontent.com/Idanbot/Idanbot/generated-assets/generated/design-1/daily-rotation-light.svg#gh-light-mode-only" width="720" alt="Idan's daily music rotation"/>
+  <img src="https://raw.githubusercontent.com/Idanbot/Idanbot/generated-assets/generated/designs/daily-rotation-dark.svg#gh-dark-mode-only" width="720" alt="Idan's daily music rotation"/>
+  <img src="https://raw.githubusercontent.com/Idanbot/Idanbot/generated-assets/generated/designs/daily-rotation-light.svg#gh-light-mode-only" width="720" alt="Idan's daily music rotation"/>
 </p>
 
 <div align="center">
