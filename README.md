@@ -36,7 +36,7 @@
 
 **Cloud platforms**
 
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?logo=aws&logoColor=white&style=flat-square)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=232F3E&style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
