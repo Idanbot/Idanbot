@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="164" viewBox="0 0 720 164" role="img" aria-labelledby="title desc">
+  <title id="title">Dramamine by Modest Mouse</title>
+  <desc id="desc">Today&apos;s selection from Idan&apos;s music rotation.</desc>
+  <g transform="translate(12 12)">
+    <rect x="0" y="0" width="29" height="29" rx="3" fill="#f6f8fa" stroke="#58a6ff"/><rect x="35" y="0" width="29" height="29" rx="3" fill="#f6f8fa" stroke="#2dd4bf"/><rect x="70" y="0" width="29" height="29" rx="3" fill="#38bdf8" stroke="#38bdf8"/><rect x="105" y="0" width="29" height="29" rx="3" fill="#f6f8fa" stroke="#f59e0b"/>
+    <rect x="0" y="41" width="696" height="99" rx="4" fill="none" stroke="#d0d7de"/>
+    <rect x="0" y="41" width="11" height="99" rx="3" fill="#38bdf8"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="48" y="82" fill="#1f2328" font-size="25" font-weight="700">Dramamine</text>
+    <text x="48" y="111" fill="#59636e" font-size="15">Modest Mouse</text>
+    <text x="48" y="137" fill="#38bdf8" font-size="11" font-weight="700">CURRENT ROTATION / DAILY PICK</text>
+  </g>
+  <g transform="translate(604 66)" fill="#38bdf8">
+    <rect x="0" y="31" width="9" height="32" rx="3" opacity=".45"/>
+    <rect x="17" y="14" width="9" height="49" rx="3" opacity=".65"/>
+    <rect x="34" y="24" width="9" height="39" rx="3" opacity=".85"/>
+    <rect x="51" y="0" width="9" height="63" rx="3"/>
+  </g>
+</svg>
