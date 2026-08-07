@@ -15,9 +15,9 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="https://github.com/Idanbot/council-of-claws">Council of Claws</a></h3>
-<p>Real-time multi-agent orchestration with a Rust control backend, WebSocket observability, PostgreSQL audit history, and Redis event delivery.</p>
-<p><code>Rust</code> <code>SvelteKit</code> <code>PostgreSQL</code> <code>Redis</code></p>
+<h3><a href="https://github.com/Idanbot/tele-home-supervisor">Tele-Home Supervisor</a></h3>
+<p>Remote home-server operations through Telegram, with system and network monitoring, Docker management, alerts, SQLite-backed state, and GHCR delivery.</p>
+<p><code>Python</code> <code>Telegram</code> <code>Docker</code> <code>SQLite</code></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/Idanbot/cf-orange-echo">Orange Echo</a></h3>
@@ -32,17 +32,11 @@
 </tr>
 </table>
 
-## Production priorities
-
-| Operability | Delivery | Data boundaries |
-| --- | --- | --- |
-| Health checks, telemetry, audit trails, and focused recovery paths | Reproducible builds, gated CI, containers, and infrastructure as code | Explicit retention, private storage, authentication, and least-privilege deployment |
-
 ## Core capabilities
 
 **Cloud platforms**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?logo=aws&logoColor=white&style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
@@ -61,7 +55,17 @@
 
 <br>
 
-`Argo CD` · `Ansible` · `GitHub Actions` · `Jenkins` · `Linux` · `PostgreSQL` · `Redis` · `MongoDB` · `ScyllaDB` · `RabbitMQ` · `Kafka`
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white&style=flat-square)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111827&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![ScyllaDB](https://img.shields.io/badge/ScyllaDB-6CD5E7?logo=scylladb&logoColor=111827&style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square)
 
 </details>
 
@@ -79,6 +83,11 @@
 
 <sub>Build for failure · automate recovery · keep the system legible</sub>
 
+<p>
+  <a href="https://github.com/Idanbot?tab=followers"><img src="https://img.shields.io/github/followers/Idanbot?label=Follow&style=flat-square&logo=github" alt="GitHub followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Idanbot&style=flat-square&color=0e75b6" alt="Profile views"/>
+</p>
+
 </div>
 
-<!-- Recommended pins: council-of-claws, cf-orange-echo, the-monastery, .dotfiles, gonnect4, TS-Exercises -->
+<!-- Recommended pins: tele-home-supervisor, cf-orange-echo, the-monastery, .dotfiles, gonnect4, TS-Exercises -->
