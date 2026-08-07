@@ -1,79 +1,84 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" width="760" alt="Cloud infrastructure and delivery pipeline illustration"/>
+<img src="./assets/profile-header-dark.png#gh-dark-mode-only" width="820" alt="Production operations console spanning cloud, containers, delivery gates, data, and observability"/>
+<img src="./assets/profile-header-light.png#gh-light-mode-only" width="820" alt="Production operations console spanning cloud, containers, delivery gates, data, and observability"/>
 
 <h1>Idan Botbol</h1>
-<h3>DevOps & Software Engineer</h3>
+<h3>Platform engineering, delivery automation, and backend systems</h3>
 
-<p>Building reliable cloud infrastructure, delivery automation, and backend systems.</p>
+<p>I build cloud platforms and services that stay observable, recoverable, and understandable after deployment.</p>
 
 </div>
 
-## Core stack
+## Selected systems
 
-### Platform & delivery
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/Idanbot/council-of-claws">Council of Claws</a></h3>
+<p>Real-time multi-agent orchestration with a Rust control backend, WebSocket observability, PostgreSQL audit history, and Redis event delivery.</p>
+<p><code>Rust</code> <code>SvelteKit</code> <code>PostgreSQL</code> <code>Redis</code></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/Idanbot/cf-orange-echo">Orange Echo</a></h3>
+<p>Private text-to-speech and briefing workloads on Cloudflare Workers, with quota accounting, queued jobs, and one-day artifact retention.</p>
+<p><code>TypeScript</code> <code>Workers AI</code> <code>D1</code> <code>R2</code></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/Idanbot/the-monastery">The Monastery</a></h3>
+<p>Self-hosted planning software with revision-aware synchronization, durable SQLite storage, health checks, backups, and container delivery.</p>
+<p><code>React</code> <code>Fastify</code> <code>SQLite</code> <code>Docker</code></p>
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=flat-square" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes"/>
-</p>
+## Production priorities
 
-### Backend & services
+| Operability | Delivery | Data boundaries |
+| --- | --- | --- |
+| Health checks, telemetry, audit trails, and focused recovery paths | Reproducible builds, gated CI, containers, and infrastructure as code | Explicit retention, private storage, authentication, and least-privilege deployment |
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot"/>
-</p>
+## Core capabilities
+
+**Cloud platforms**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+
+**Services and automation**
+
+![Rust](https://img.shields.io/badge/Rust-CE422B?logo=rust&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
 
 <details>
-<summary><strong>More tools &amp; technologies</strong></summary>
+<summary><strong>Extended toolchain</strong></summary>
 
 <br>
 
-<strong>Delivery &amp; operations</strong>
-
-<p>
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white&style=flat-square" alt="Argo CD"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111827&style=flat-square" alt="Linux"/>
-</p>
-
-<strong>Data &amp; messaging</strong>
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" alt="Redis"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/ScyllaDB-6CD5E7?logo=scylladb&logoColor=111827&style=flat-square" alt="ScyllaDB"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square" alt="Kafka"/>
-</p>
+`Argo CD` · `Ansible` · `GitHub Actions` · `Jenkins` · `Linux` · `PostgreSQL` · `Redis` · `MongoDB` · `ScyllaDB` · `RabbitMQ` · `Kafka`
 
 </details>
 
 ## On rotation
 
 <p align="center">
-  <img src="./assets/daily-rotation-dark.svg#gh-dark-mode-only" width="720" alt="Today's music rotation"/>
-  <img src="./assets/daily-rotation-light.svg#gh-light-mode-only" width="720" alt="Today's music rotation"/>
+  <img src="https://raw.githubusercontent.com/Idanbot/Idanbot/generated-assets/generated/design-1/daily-rotation-dark.svg#gh-dark-mode-only" width="720" alt="Idan's daily music rotation"/>
+  <img src="https://raw.githubusercontent.com/Idanbot/Idanbot/generated-assets/generated/design-1/daily-rotation-light.svg#gh-light-mode-only" width="720" alt="Idan's daily music rotation"/>
 </p>
 
 <div align="center">
 
-<img src="./assets/profile-footer.png" width="760" alt="Connected cloud infrastructure"/>
+<img src="./assets/profile-footer-dark.png#gh-dark-mode-only" width="820" alt="Cloud delivery telemetry rail"/>
+<img src="./assets/profile-footer-light.png#gh-light-mode-only" width="820" alt="Cloud delivery telemetry rail"/>
 
-<p>
-  <a href="https://github.com/Idanbot?tab=followers"><img src="https://img.shields.io/github/followers/Idanbot?label=Follow&style=flat-square&logo=github" alt="GitHub followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Idanbot&style=flat-square&color=0e75b6" alt="Profile views"/>
-</p>
+<sub>Build for failure · automate recovery · keep the system legible</sub>
 
 </div>
+
+<!-- Recommended pins: council-of-claws, cf-orange-echo, the-monastery, .dotfiles, gonnect4, TS-Exercises -->
